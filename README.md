@@ -4,7 +4,7 @@
 <h4 align="center" margin="0px">I am a person having learning relearning and unlearning as my biggest strength. I have decided to enroll in my career journey as a Software Developer with proficient Skilled in both Frontend and Backend Development for producing the Quality work..</h4>
 
 <h2 align="center">console.log("Hello World !!");</h2>
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="380" align="centre" marginLeft="100px" alt="" />
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="450" align="centre" marginLeft="100px" alt="" />
 
 <!-- 
  ```js
