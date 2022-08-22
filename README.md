@@ -1,7 +1,7 @@
-### Hi 👋
+### Hola 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Krishna <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Krishna Chaturvedi<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /> Mucho gusto</h1>
+<h4 align="center" margin="0px">I am a person having learning relearning and unlearning as my biggest strength. I have decided to enroll in my career journey as a Software Developer with proficient Skilled in both Frontend and Backend Development for producing the Quality work..</h4>
 
 <h2 align="center">console.log("Hello World !!");</h2>
 <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="350" align="right" alt="" />
@@ -69,7 +69,7 @@ class Skills extends SoftwareDeveloper {
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-  <a href="www.linkedin.com/in/krishna-chaturvedi-765026231" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/krishna-chaturvedi-765026231/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="krishna.chaturvedi1901@gmail.com" href="mailto:krishna.chaturvedi1901@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/917355617820" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
   <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
@@ -77,7 +77,7 @@ class Skills extends SoftwareDeveloper {
 <br />
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=krishnachaturvedi1901&show_icons=true&theme=gradient" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaturvedi1901&layout=compact" />
+  <--! <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaturvedi1901&layout=compact" /> -->
 </div>
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=krishnachaturvedi1901&theme=minimal" alt="activitygraph" /> 
