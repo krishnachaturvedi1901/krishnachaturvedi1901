@@ -4,7 +4,7 @@
 <h4 align="center" margin="0px">I am a person having learning relearning and unlearning as my biggest strength. I have decided to enroll in my career journey as a Software Developer with proficient Skilled in both Frontend and Backend Development for producing the Quality work..</h4>
 
 <h2 align="center">console.log("Hello World !!");</h2>
-<img src="https://pnghut.com/png/X0KyAEhh8W/web-development-programmer-computer-programming-mobile-app-happiness-design-transparent-png" width="350" align="centre" alt="" />
+<img src="https://www.pngfind.com/pngs/m/329-3293400_are-you-the-best-fullstack-developer-full-stack.png" width="350" align="centre" margin="auto" alt="" />
 
 <!-- 
  ```js
@@ -88,6 +88,6 @@ class Skills extends SoftwareDeveloper {
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnachaturvedi1901&theme=vue" alt="summarycard"/> </p>
 <hr />
 
-<p align="centre">Muchas Gracias <p>
+<p align="centre" margin="auto">Muchas Gracias <p>
 
 
