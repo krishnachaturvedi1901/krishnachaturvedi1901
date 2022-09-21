@@ -88,7 +88,7 @@ class Skills extends SoftwareDeveloper {
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnachaturvedi1901&theme=vue" alt="summarycard"/> </p>
 <hr />
 
-<p align="centre" margin="auto">Muchas Gracias :heart: <p>
+<p align="centre" margin="auto">Muchas Gracias :heart:<p>
 
 
 
